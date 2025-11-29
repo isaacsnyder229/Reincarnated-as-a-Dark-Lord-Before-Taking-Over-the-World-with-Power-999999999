@@ -12,3 +12,5 @@ Control
 
 Is this game beatable without grinding?
 Yes, by design you don't need Essence to reach all endings. 
+
+[Original Source](https://jetamp.itch.io/reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999)
